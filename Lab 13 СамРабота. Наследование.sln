@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 13 СамРабота. Наследование", "Lab 13 СамРабота. Наследование\Lab 13 СамРабота. Наследование.csproj", "{F1398AA6-E490-4019-AC9A-C53D078F0B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1398AA6-E490-4019-AC9A-C53D078F0B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1398AA6-E490-4019-AC9A-C53D078F0B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1398AA6-E490-4019-AC9A-C53D078F0B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1398AA6-E490-4019-AC9A-C53D078F0B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C807131-CCFB-4EAC-A449-EFE92CFD9CB9}
+	EndGlobalSection
+EndGlobal
